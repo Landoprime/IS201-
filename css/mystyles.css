@@ -1,0 +1,33 @@
+ul{
+    font-size: 20px;
+}
+.Bold{
+    font-weight: bold;
+    
+}
+.Background{
+    background-color: beige;
+}
+ol{
+    font-family: cursive;
+}
+.Little{
+    font-style: italic;
+    color: brown;
+    font-size: 35px;
+}
+.Header{
+    text-align: center;
+}
+.Links{
+    text-align: center;
+}
+.Padding{
+    Padding: 20px;
+}
+.Bigger{
+    font-size: 25px;
+}
+#Top{
+    font-size: 45px;
+}
